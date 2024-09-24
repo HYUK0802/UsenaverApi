@@ -1,4 +1,4 @@
-package com.hyuk.naverapi.dto;
+package com.hyuk.naverapi.naver.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
